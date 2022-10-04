@@ -1,10 +1,12 @@
 {
     "sponsors": [
+        
         {
-            "name": "Thamara Andrade",
-            "image": "https://avatars1.githubusercontent.com/u/846063?v=4?s=60",
-            "link": "https://github.com/thamara"
+           "name": "Thamara Andrade",
+           "image": "https://avatars1.githubusercontent.com/u/846063?v=4?s=60",
+           "link": "https://github.com/thamara"
         }
+        
     ],
     "technologies": {
         ".NET": "net",
