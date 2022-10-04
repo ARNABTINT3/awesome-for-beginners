@@ -8,9 +8,9 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## Table of Contents:
 
-<% toc %>
+ <% toc %>
 
-<% content %>
+ <% content %>
 
 ## Contribute
 
